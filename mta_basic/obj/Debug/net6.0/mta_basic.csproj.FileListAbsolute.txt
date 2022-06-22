@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\mta_basic\mta_basic\bin\Debug\net6.0\mta_basic.exe
+C:\Users\admin\source\repos\mta_basic\mta_basic\bin\Debug\net6.0\mta_basic.deps.json
+C:\Users\admin\source\repos\mta_basic\mta_basic\bin\Debug\net6.0\mta_basic.runtimeconfig.json
+C:\Users\admin\source\repos\mta_basic\mta_basic\bin\Debug\net6.0\mta_basic.dll
+C:\Users\admin\source\repos\mta_basic\mta_basic\bin\Debug\net6.0\ref\mta_basic.dll
+C:\Users\admin\source\repos\mta_basic\mta_basic\bin\Debug\net6.0\mta_basic.pdb
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.AssemblyInfo.cs
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.dll
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\ref\mta_basic.dll
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.pdb
+C:\Users\admin\source\repos\mta_basic\mta_basic\obj\Debug\net6.0\mta_basic.genruntimeconfig.cache
